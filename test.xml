@@ -41,7 +41,7 @@
               <Tracking event="complete">http://example.com/tracking/complete</Tracking>
               <Tracking event="progress" offset="00:00:10">http://example.com/tracking/progress-10</Tracking>
             </TrackingEvents>
-            <Duration>00:00:16</Duration>
+            <Duration>00:00:25</Duration>
             <MediaFiles>
               <MediaFile id="5241" delivery="progressive" type="video/mp4" bitrate="2000" width="1280" height="720" minBitrate="1500" maxBitrate="2500" scalable="1" maintainAspectRatio="1" codec="H.264">
                 <![CDATA[https://opencdn.b-cdn.net/pub/5.0/media/preroll_coffe_480.mp4]]>
