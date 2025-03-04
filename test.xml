@@ -41,8 +41,7 @@
        </Icon>
       </Icons>
       <MediaFiles>
-       <MediaFile id="GDFP" delivery="streaming" width="256" height="144" type="application/x-mpegURL" minBitrate="96" maxBitrate="494" scalable="true" maintainAspectRatio="true"><![CDATA[https://redirector.gvt1.com/api/manifest/hls_variant/id/f1be9c477e89fd68/itag/0/source/dclk_video_ads/acao/yes/cpn/FuE4DmLnxLR2973N/ctier/L/ei/3LXFZ46_CKfj4t4P1PbtiA0/hfr/all/ip/0.0.0.0/keepalive/yes/playlist_type/DVR/requiressl/yes/rqh/5/susc/dvc/xpc/Eghovf3BOnoBAQ%3D%3D/expire/1772546396/sparams/expire,ei,ip,playlist_type,acao,hfr,requiressl,ctier,source,id,itag,rqh,susc,xpc/sig/AJfQdSswRQIgf1ADQQSYdHB0-sXtvQZsoNDvPXCOTCULvBEpTp02iOACIQDgWE86r4ikSg1KeypudOkDUTDBUdhYLrK49p6CRLzNAQ%3D%3D/file/index.m3u8]]></MediaFile>
-       <MediaFile id="GDFP" delivery="streaming" width="0" height="0" type="application/dash+xml" scalable="true" maintainAspectRatio="true"><![CDATA[https://redirector.gvt1.com/api/manifest/dash/id/f1be9c477e89fd68/itag/0/source/dclk_video_ads/acao/yes/cpn/FuE4DmLnxLR2973N/ctier/L/ei/3LXFZ46_CKfj4t4P1PbtiA0/hfr/all/ip/0.0.0.0/keepalive/yes/playlist_type/DVR/requiressl/yes/rqh/2/susc/dvc/xpc/Eghovf3BOnoBAQ%3D%3D/expire/1772546396/sparams/expire,ei,ip,ctier,source,itag,playlist_type,requiressl,acao,id,hfr,rqh,susc,xpc/sig/AJfQdSswRAIgK6oe0wl9KQ8kie0gUA_lwPK5hPwQuyeeaM6QmTOiFRsCIA7Hb-EEUuFv671Q3UEl75E0SSYrOt3nU19hpHs1hQY4/file/index.mpd]]></MediaFile>
+
       </MediaFiles>
      </Linear>
     </Creative>
