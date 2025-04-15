@@ -4,30 +4,30 @@
         <InLine>
             <AdSystem version="2.0">Test</AdSystem>
             <AdTitle>Test</AdTitle>
-            <Error>https://github.com/Shashank2406/error</Error>
-            <Impression>https://github.com/Shashank2406/impression</Impression>
+            <Error>https://raw.githubusercontent.com/Shashank2406/test/refs/heads/main/pixel.gif</Error>
+            <Impression>https://raw.githubusercontent.com/Shashank2406/test/refs/heads/main/pixel.gif</Impression>
             <Creatives>
                 <Creative sequence="1" AdID="7E7F3BE9-9717-4289-9094-B77EEDC4086A">
                     <Linear skipoffset="00:00:05">
                         <Duration>00:00:30</Duration>
                         <TrackingEvents>
-                            <Tracking event="start">https://github.com/Shashank2406/start</Tracking>
-                            <Tracking event="firstQuartile">https://github.com/Shashank2406/firstQuartile</Tracking>
-                            <Tracking event="midpoint">https://github.com/Shashank2406/midpoint</Tracking>
-                            <Tracking event="thirdQuartile">https://github.com/Shashank2406/thirdQuartile</Tracking>
-                            <Tracking event="complete">https://github.com/Shashank2406/complete</Tracking>
-                            <Tracking event="mute">https://github.com/Shashank2406/mute</Tracking>
-                            <Tracking event="unmute">https://github.com/Shashank2406/unmute</Tracking>
-                            <Tracking event="rewind">https://github.com/Shashank2406/rewind</Tracking>
-                            <Tracking event="pause">https://github.com/Shashank2406/pause</Tracking>
-                            <Tracking event="resume">https://github.com/Shashank2406/resume</Tracking>
-                            <Tracking event="fullscreen">https://github.com/Shashank2406/fullscreen</Tracking>
-                            <Tracking event="creativeView">https://github.com/Shashank2406/creativeView</Tracking>
-                            <Tracking event="acceptInvitation">https://github.com/Shashank2406/acceptInvitation</Tracking>
+                            <Tracking event="start">https://raw.githubusercontent.com/Shashank2406/test/refs/heads/main/pixel.gif</Tracking>
+                            <Tracking event="firstQuartile">https://raw.githubusercontent.com/Shashank2406/test/refs/heads/main/pixel.gif</Tracking>
+                            <Tracking event="midpoint">https://raw.githubusercontent.com/Shashank2406/test/refs/heads/main/pixel.gif</Tracking>
+                            <Tracking event="thirdQuartile">https://raw.githubusercontent.com/Shashank2406/test/refs/heads/main/pixel.gif</Tracking>
+                            <Tracking event="complete">https://raw.githubusercontent.com/Shashank2406/test/refs/heads/main/pixel.gif</Tracking>
+                            <Tracking event="mute">https://raw.githubusercontent.com/Shashank2406/test/refs/heads/main/pixel.gif</Tracking>
+                            <Tracking event="unmute">https://raw.githubusercontent.com/Shashank2406/test/refs/heads/main/pixel.gif</Tracking>
+                            <Tracking event="rewind">https://raw.githubusercontent.com/Shashank2406/test/refs/heads/main/pixel.gif</Tracking>
+                            <Tracking event="pause">https://raw.githubusercontent.com/Shashank2406/test/refs/heads/main/pixel.gif</Tracking>
+                            <Tracking event="resume">https://raw.githubusercontent.com/Shashank2406/test/refs/heads/main/pixel.gif</Tracking>
+                            <Tracking event="fullscreen">https://raw.githubusercontent.com/Shashank2406/test/refs/heads/main/pixel.gif</Tracking>
+                            <Tracking event="creativeView">https://raw.githubusercontent.com/Shashank2406/test/refs/heads/main/pixel.gif</Tracking>
+                            <Tracking event="acceptInvitation">https://raw.githubusercontent.com/Shashank2406/test/refs/heads/main/pixel.gif</Tracking>
                         </TrackingEvents>
                         <VideoClicks>
                             <ClickThrough id="123">http://google.com</ClickThrough>
-                            <ClickTracking id="123">https://github.com/Shashank2406/click</ClickTracking>
+                            <ClickTracking id="123">https://raw.githubusercontent.com/Shashank2406/test/refs/heads/main/pixel.gif</ClickTracking>
                         </VideoClicks>
                         <MediaFiles>
                             <MediaFile id="video" delivery="progressive" type="video/mp4" bitrate="1215" width="1280" height="720">https://raw.githubusercontent.com/Shashank2406/test/refs/heads/main/sample.mp4</MediaFile>
